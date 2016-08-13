@@ -1,3 +1,5 @@
 publish/
-themes/
+themes/*
+content/magahiz_typo.yml
+content/magahiz_typo.sql
 *~
