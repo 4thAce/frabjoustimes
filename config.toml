@@ -1,0 +1,41 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "publish"
+builddrafts = false
+baseurl = "http://frabjoustimes.magahiz.com/"
+canonifyurls = true
+title = "Frabjous Times"
+footnotereturnlinkcontents = "↩"
+languageCode = "en-us"
+author = "Richard Magahiz"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+theme = "tinyce"
+#paginate = 10
+disqusShortname = "milkfish"
+  
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  description = "Original fiction and poetry"
+  site_author = "Rich Magahiz"
+  #avatar = "img/profile-image.png"
+  #header_background = "img/desk.jpg"
+  #header_title = "Frabjous Times"
+  #copyright = "Powered by [Hugo](http://gohugo.io)."
+  # Add your social network accounts to the profile section on the left
+  # by entering your username. The links to your account will be
+  # create automatically.
+  twitter_user = "richmagahiz"
+  facebook_user  = "richard.magahiz"
+  github_user = "4thAce"
+  pinboard_user = "milkfish"
+  pinterest_user = "richardmagahiz"
+  linkedin_user  = "rmagahiz"
+  googleplus_user = "114426959294904813019"
+  facebook_like = true
+  twitter_tweet_button = true
+  google_plus_one = "true"
+  disqus_short_name = "milkfish"
+  disqus_show_comment_count = false

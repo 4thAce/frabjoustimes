@@ -1,0 +1,8 @@
++++
+title = "About Rich Magahiz"
+date = "2007-12-24"
+color = "red"
+icon = "adjust"
++++
+
+<img src="/images/10865675a7236322908l.jpg" width="512" height="384" alt="Rich Magahiz" /> (Also, <a href="http://img370.imageshack.us/img370/5341/hpim49559my.jpg">an old picture of me</a>, before I shaved)<br />[usa]: http://magahiz.com/frabjous/usa.gif "US Map"<br />![US Map][usa]<br />* Where am I from? It's a bit complicated:<br />    > 1. San Francisco, CA<br />    > 1. Evanston, IL<br />    > 1. Cambridge, MA<br />    > 1. Schenectady, NY<br />    > 1. Pittsburgh, PA<br />    > 1. Dumont, NJ<br /><br />So which one is my hometown?  I don't think there's a rigorous answer to<br />that.<br />* As for the other Frequently Asked Question:  the last name is *Filipino*.  Having been born in this country, I've not had the<br />pleasure of visiting the ancestral land.<br />* As you can tell, I enjoy creative writing, a habit I have had since childhood. I have been <br />[published](http://magahiz.com/frabjous/writing.html "Writing of Rich Magahiz") <br />in various venues on the Web and in print and am currently working on<br />getting a (small) book-length piece which I co-authored out into the world. <br /></li><br /><li><br /><img src="http://magahiz.com/frabjous/pmsquare.JPG" alt="Pamela Magahiz" height="276" width="368" /><br /><br />My wife Pamela and I live in Dumont, New Jersey.<br />* I am a member of the <a href="http://www.kofc7647.org">Knights of Columbus Council 7647</a> in Cresskill, New Jersey.  <br /><br />* I am the Director of Information Technologies at [Kubisys](http://kubisys.com), a startup in Pearl River, New York. My previous jobs include college teaching, postdoctoral research, and software engineering.

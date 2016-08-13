@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Frabjous Times</title>
+    <link>http://frabjoustimes.magahiz.com/tags/meta/</link>
+    <description>Recent content in Meta on Frabjous Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 28 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://frabjoustimes.magahiz.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upgrading</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/28/upgrading/</link>
+      <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/28/upgrading/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m planning to upgrade to &lt;a href=&#34;http://typosphere.org/]&#34;&gt;Typo 5.0.2&lt;/a&gt; running on &lt;a href=&#34;http://www.slashdotdash.net/articles/2007/12/03/rails-2-upgrade-notes&#34;&gt;Rails 2.0.2&lt;/a&gt;  stable over the next week or so. There may be some more instability than usual associated with the changes, I extend my apologies in advance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: The upgrade is more or less done, with only a few bumps along the way. Most of the benefits seem to show up on the administration side, not in the public view.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yet another cloneku</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/15/yet-another-cloneku/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/15/yet-another-cloneku/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;spotless mirror&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;all her nightmares&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;respawn unchanged&lt;/div&gt;
+
+&lt;div class=\&#34;note\&#34;&gt;&lt;blockquote&gt;Now let&#39;s think about this for a moment. How would you top Shenxiu if you were Huineng? &lt;a href=\&#34;http://www.gardendigest.com/zen/quotes.htm\&#34;&gt;Shenxiu&#39;s poem seems impeccable!&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;Imagine a scifaiku
+post about the first probe
+landing on Mars. If you then did a poem on a second
+probe&#39;s crash on Mars, all
+you&#39;ve done is restate the first post with minor
+changes. Long-time &lt;a href=\&#34;http://groups.yahoo.com/group/Scifaiku/\&#34;&gt;Scifaiku
+list&lt;/a&gt; members call this a &lt;a href=\&#34;http://groups.yahoo.com/group/Scifaiku/message/15995\&#34;&gt;cloneku&lt;/a&gt;.&lt;/blockquote&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

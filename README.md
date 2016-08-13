@@ -1,0 +1,1 @@
+This is an experiment with [https://github.com/spf13/hugo](Hugo) converting some old content from http://frabjoustimes.magahiz.com and tweaking the themes.

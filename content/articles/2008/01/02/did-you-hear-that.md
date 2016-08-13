@@ -1,0 +1,18 @@
++++
+title = "Did you hear that?"
+tags = [ "space", "Mars"]
+date = "2008-01-02"
+color = "orange"
+icon = "pied-piper-pp"
++++
+
+<div class=\"kufirst\">fetch me my glasses -</div>
+<div class=\"kumid\">let's see what's with</div>
+<div class=\"kulast\">the neighbors</div>
+
+<br /><div class=\"split\"><span class=\"lefthalf\">go back to bed:</span>
+<span class=\"righthalf\">  Syrtis Major's safe</span></div>
+
+<div class=\"note\"><blockquote>Based on this latest analysis, the odds for the <a href=\"http://www.nasa.gov/mission_pages/mars/news/mars-20071221.html\">asteroid impacting Mars</a> on Jan. 30 are now 1-in-25 -- or about 4 percent.</blockquote>
+<blockquote>[T]he odds of impact have now <a href=\"http://dsc.discovery.com/news/2008/01/11/mars-zoom.html\">dropped </a>to 1 in 10,000.</blockquote>
+</div>

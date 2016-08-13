@@ -1,0 +1,13 @@
++++
+title = "By way of justification"
+tags = ["music"]
+date = "2007-12-24"
+color = "orange"
+icon = "hospital-o"
++++
+
+<div class=\"split\"><span class=\"lefthalf\">logical, baby...</span><span class=\"righthalf\">girl does got back</span></div>
+
+<div class=\"note\"><object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/qkJdEFf_Qg4&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/qkJdEFf_Qg4&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>
+<a href=\"http://uk.youtube.com/watch?v=qkJdEFf_Qg4\">Version 1</a>
+</div>

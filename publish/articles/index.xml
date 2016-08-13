@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Frabjous Times</title>
+    <link>http://frabjoustimes.magahiz.com/articles/</link>
+    <description>Recent content in Articles on Frabjous Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 21 Jun 2013 11:27:27 -0400</lastBuildDate>
+    <atom:link href="http://frabjoustimes.magahiz.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nitro: A quick and simple profiler for Go</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2013/06/21/nitro/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2013/06/21/nitro/</guid>
+      <description>
+
+&lt;h1 id=&#34;nitro&#34;&gt;Nitro&lt;/h1&gt;
+
+&lt;p&gt;Quick and easy performance analyzer library for &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Nitro is a quick and easy performance analyzer library for Go.
+It is useful for comparing A/B against different drafts of functions
+or different functions.&lt;/p&gt;
+
+&lt;h2 id=&#34;implementing-nitro&#34;&gt;Implementing Nitro&lt;/h2&gt;
+
+&lt;p&gt;Using Nitro is simple. First, use &lt;code&gt;go get&lt;/code&gt; to install the latest version
+of the library.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ go get github.com/spf13/nitro
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Next, include nitro in your application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corrupt</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/04/corrupt/</link>
+      <pubDate>Sat, 09 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/04/corrupt/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;a green spot&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;the planet-wide colony&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;goes bad&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Somewhere it&#39;s Spring</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/02/02/somewhere-its-spring/</link>
+      <pubDate>Sat, 02 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/02/02/somewhere-its-spring/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;a lark&#39;s song&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;and she wakes -- it&#39;s just a dream&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;of Earth&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;through leafmould sapphires burn:&lt;/span&gt;   &lt;span class=\&#34;righthalf\&#34;&gt;Seventh Life&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;div class=\&#34;kufirst\&#34;&gt;early dawn --&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;windshields clear of&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;ammonia frost&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;next up to bat...&lt;/span&gt;   &lt;span class=\&#34;righthalf\&#34; style=\&#34;font-style: italic;\&#34;&gt;Homo habilis&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;div class=\&#34;kufirst\&#34;&gt;this place of red,&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;turning...  the first of&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;many worms&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;div class=\&#34;kufirst\&#34;&gt;when sulphur flows&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;down living rock,&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;remember me&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>February 1</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/02/01/february-1/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/02/01/february-1/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;where have you gone?&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;there are no buds;&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;the sky is cold&lt;/div&gt;
+&lt;br /&gt;&lt;div class=\&#34;note\&#34;&gt;
+&lt;blockquote&gt;Thy saints ascend
+&lt;br /&gt;into the grace manifold
+&lt;br /&gt;lighting up &lt;a href=&#34;http://thepraisegodblog.wordpress.com/2008/02/01/praise-38-my-faith-draws-centuries-of-thee/&#34;&gt;errant galaxies&lt;/a&gt;
+&lt;br /&gt;that flicker on forgotten trees.&lt;/blockquote&gt;
+
+&lt;blockquote&gt;On this day in 2003, while returning to Earth from an orbital mission, the U.S. space shuttle &lt;a href=&#34;http://www.britannica.com/eb/dailycontent?tocId=9396818#event&#34;&gt;Columbia&lt;/a&gt; broke up catastrophically at an altitude of about 60 km (40 miles) over Texas, killing all seven crew members.&lt;/blockquote&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diner on a Vegan moon</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/31/diner-on-a-vegan-moon/</link>
+      <pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/31/diner-on-a-vegan-moon/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;his bento arrives --&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;this compartment&#39;s called&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;the &#39;bridge&#39;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Past caring</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/30/past-caring/</link>
+      <pubDate>Wed, 30 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/30/past-caring/</guid>
+      <description>&lt;div class=&#34;kufirst&#34;&gt;up by Yucca&lt;/div&gt;
+&lt;div class=&#34;kumid&#34;&gt;some mutegirls skipping&lt;/div&gt;
+&lt;div class=&#34;kulast&#34;&gt;Triple-Dutch&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=&#34;split&#34;&gt;&lt;span class=&#34;lefthalf&#34;&gt;5ETH&amp;rsquo;s blindfolds slip&amp;hellip;&lt;/span&gt;&lt;span class=&#34;righthalf&#34;&gt;   No sense-palp peeking!&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=&#34;note&#34;&gt;&lt;object width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/A6Tub5_NXOA&amp;rel=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/A6Tub5_NXOA&amp;rel=1&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;/embed&gt;&lt;/object&gt;
+&lt;br /&gt;At Harlem&amp;rsquo;s &lt;a href=&#34;http://www.youtube.com/watch?v=A6Tub5_NXOA&#34;&gt;Apollo Theater&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upgrading</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/28/upgrading/</link>
+      <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/28/upgrading/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m planning to upgrade to &lt;a href=&#34;http://typosphere.org/]&#34;&gt;Typo 5.0.2&lt;/a&gt; running on &lt;a href=&#34;http://www.slashdotdash.net/articles/2007/12/03/rails-2-upgrade-notes&#34;&gt;Rails 2.0.2&lt;/a&gt;  stable over the next week or so. There may be some more instability than usual associated with the changes, I extend my apologies in advance.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update&lt;/em&gt;: The upgrade is more or less done, with only a few bumps along the way. Most of the benefits seem to show up on the administration side, not in the public view.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The poet&#39;s brief</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/27/the-poets-brief/</link>
+      <pubDate>Sun, 27 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/27/the-poets-brief/</guid>
+      <description>&lt;div class=\&#34;cinqfirst\&#34;&gt;Please do&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;see me in court.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;In my Valentine&#39;s verse,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;your software changed &#39;disengaged&#39; to&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;&#39;engaged.&#39;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the trees, into elsewhere</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/26/out-of-the-trees-into-elsewhere/</link>
+      <pubDate>Sat, 26 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/26/out-of-the-trees-into-elsewhere/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;portals swing wide...&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;these primates have learned&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;to jump&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;Tau Ceti bound,&lt;/span&gt;&lt;span class=\&#34;righthalf\&#34;&gt;  we skip the null zones&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=\&#34;note\&#34;&gt;&lt;a href=\&#34;http://www.imdb.com/title/tt0489099/\&#34;&gt;Jumper&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The five stages of middle age</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/26/the-five-stages-of-middle-age/</link>
+      <pubDate>Sat, 26 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/26/the-five-stages-of-middle-age/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;I&lt;/h3&gt;
+&lt;div class=\&#34;cinqfirst\&#34;&gt;Matisse,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;in his forties,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;was years before his peak.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;So what&amp;rsquo;s the rush? I&amp;rsquo;ve still got loads&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;of time.&lt;/div&gt;
+&lt;h3&gt;II&lt;/h3&gt;
+&lt;div class=\&#34;cinqfirst\&#34;&gt;Bastard!&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;that young pipsqueak&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;doesn&amp;rsquo;t deserve that car.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;I raced Mustangs when he played with&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;Hot Wheels.&lt;/div&gt;
+&lt;h3&gt;III&lt;/h3&gt;
+&lt;div class=\&#34;cinqfirst\&#34;&gt;Okay,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;I&amp;rsquo;ll lose some weight,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;and switch to light beer too.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;I&amp;rsquo;ll show my old lady I&amp;rsquo;ve still&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;got it.&lt;/div&gt;
+&lt;h3&gt;IV&lt;/h3&gt;
+&lt;div class=\&#34;cinqfirst\&#34;&gt;Hang on,&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;maybe there&amp;rsquo;s a way.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;If I could sell this place&amp;hellip;&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;Dammit, what&amp;rsquo;s the use, who am I&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;kidding?&lt;/div&gt;
+&lt;h3&gt;V&lt;/h3&gt;
+&lt;div class=\&#34;cinqfirst\&#34;&gt;Ali &amp;ndash;&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;he missed his chance&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;at gradual decay.&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;Strange to picture him living to&lt;/div&gt;
+&lt;div class=\&#34;cinqlast\&#34;&gt;my age.&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Be not proud</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/25/be-not-proud/</link>
+      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/25/be-not-proud/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;each life&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;vindicated&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;in words of four letters&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;note\&#34;&gt;&lt;a href=\&#34;http://www.bartleby.com/105/72.html\&#34;&gt;John Donne&lt;/a&gt;
+&lt;blockquote&gt;The RNA language is written in
+&lt;a href=\&#34;http://3quarksdaily.blogs.com/3quarksdaily/2004/11/ode_to_the_code.html\&#34;&gt;an alphabet of four letters&lt;/a&gt;
+(A, C, G, U), grouped into words three letters long, called triplets or codons. Each of the 64 codons specifies one of 20 amino acids or else serves as a punctuation mark signaling the end of a message. That&amp;rsquo;s all there is to the code. But a nagging question has never been put to rest: Why this particular code, rather than some other?&lt;/blockquote&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Be true to your school</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/23/be-true-to-your-school/</link>
+      <pubDate>Wed, 23 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/23/be-true-to-your-school/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;I pledge allegiance&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;to carbon&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;and nitrogen&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Untitled)</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/21/untitled/</link>
+      <pubDate>Mon, 21 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/21/untitled/</guid>
+      <description>&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;those aren&#39;t parachutes&lt;/span&gt;&lt;span class=\&#34;righthalf\&#34;&gt;   in red Lycra...&lt;/span&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delegation</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/21/delegation/</link>
+      <pubDate>Mon, 21 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/21/delegation/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;for matters&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;terrestrial&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;all hail your viceroy&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;if they could&lt;/span&gt;&lt;span class=\&#34;righthalf\&#34;&gt;  they&amp;rsquo;d sacrifice virgins&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;kufirst\&#34;&gt;the brute of earth:&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;I cut him,&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;he does not bleed&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beep</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/19/beep/</link>
+      <pubDate>Sat, 19 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/19/beep/</guid>
+      <description>&lt;div class=\&#34;cinqfirst\&#34;&gt;This is&lt;/div&gt;
+&lt;div class=\&#34;cinqmid\&#34;&gt;your brain-shaped box,&lt;/div&gt;  
+&lt;div class=\&#34;cinqmid\&#34;&gt;out in space, dreaming worlds.&lt;/div&gt;  
+&lt;div class=\&#34;cinqmid\&#34;&gt;This alarm tells you it&#39;s time to&lt;/div&gt;  
+&lt;div class=\&#34;cinqlast\&#34;&gt;awake.&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;note\&#34;&gt;&lt;blockquote&gt;Boltzmann&amp;rsquo;s idea might work too well, filling the megaverse with more &lt;a href=\&#34;http://www.nytimes.com/2008/01/15/science/15brain.html?_r=3&amp;adxnnl=1&amp;oref=slogin&amp;adxnnlx=1200744078-P9OBXCE4KDuwjIDdptGerw&amp;pagewanted=print\&#34;&gt;Boltzmann brains&lt;/a&gt; than universes or real people.&lt;/blockquote&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

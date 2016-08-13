@@ -1,0 +1,11 @@
++++
+title = "Upgrading"
+tags =[ "meta"]
+date = "2008-01-28"
+color = "grey"
+icon = "gbp"
++++
+
+I'm planning to upgrade to [Typo 5.0.2](http://typosphere.org/]) running on [Rails 2.0.2](http://www.slashdotdash.net/articles/2007/12/03/rails-2-upgrade-notes)  stable over the next week or so. There may be some more instability than usual associated with the changes, I extend my apologies in advance. 
+
+*Update*: The upgrade is more or less done, with only a few bumps along the way. Most of the benefits seem to show up on the administration side, not in the public view.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mind on Frabjous Times</title>
+    <link>http://frabjoustimes.magahiz.com/tags/mind/</link>
+    <description>Recent content in Mind on Frabjous Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 13 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://frabjoustimes.magahiz.com/tags/mind/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An enigma</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/13/an-enigma/</link>
+      <pubDate>Sun, 13 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/13/an-enigma/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;tapping your thoughts&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;it all flows as&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;a cool green mist&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;div class=\&#34;split\&#34;&gt;&lt;span class=\&#34;lefthalf\&#34;&gt;  Eureka!&lt;/span&gt;&lt;br /&gt;
+&lt;span class=\&#34;righthalf\&#34;&gt;we proved the need for hate&lt;/span&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mars on the cusp of Capricorn</title>
+      <link>http://frabjoustimes.magahiz.com/articles/2008/01/06/mars-on-the-cusp-of-capricorn/</link>
+      <pubDate>Sun, 06 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://frabjoustimes.magahiz.com/articles/2008/01/06/mars-on-the-cusp-of-capricorn/</guid>
+      <description>&lt;div class=\&#34;kufirst\&#34;&gt;translunar squadmates&#39;&lt;/div&gt;
+&lt;div class=\&#34;kumid\&#34;&gt;sensoria:&lt;/div&gt;
+&lt;div class=\&#34;kulast\&#34;&gt;taste of fear&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
